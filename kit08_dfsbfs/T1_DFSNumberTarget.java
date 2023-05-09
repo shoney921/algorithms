@@ -1,12 +1,4 @@
 package kit08_dfsbfs;
-
-/**
- *
- *
- *
- *
- */
-
 public class T1_DFSNumberTarget {
 
 
